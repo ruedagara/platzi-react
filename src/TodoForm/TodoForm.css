@@ -1,0 +1,35 @@
+.TodoForm-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.TodoForm-label {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.TodoForm-textarea {
+    min-width: 1vw;
+    min-height: 1vw;
+}
+
+.TodoForm-buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.TodoForm-button {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.TodoForm-button--cancel {
+    
+}
+
+.TodoForm-button-add {
+    
+}
